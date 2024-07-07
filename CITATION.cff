@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite it as below."
+authors:
+  - family-names: Forte
+    given-names: Federico Daniel
+    orcid: https://orcid.org/0000-0002-6768-9469
+title: "Indicador de Complejidad de Restricciones Cambiarias"
+date-released: 2024-07-06
