@@ -6,3 +6,6 @@ authors:
     orcid: https://orcid.org/0000-0002-6768-9469
 title: "Indicador de Complejidad de Restricciones Cambiarias"
 date-released: 2024-07-06
+url: "https://github.com/federicodforte/fx_restrictions"
+preferred-citation:
+  type: database
